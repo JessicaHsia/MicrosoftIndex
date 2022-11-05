@@ -62,13 +62,13 @@ html {
 
 .swiper-button-next {
     position: absolute;
-    right: 58%;
+    right: 56%;
     transform: translateX(150%);
 }
 
 .swiper-button-prev {
     position: absolute;
-    left: 58%;
+    left: 56%;
     transform: translateX(-150%);
 }
 
