@@ -5,6 +5,10 @@
     flex-direction: column;
     background-color: #f2f2f2;
 }
+
+p{
+    font-size: 9px;
+}
 @media (max-width:1083) {
     .footer-all {
         justify-content: flex-start;

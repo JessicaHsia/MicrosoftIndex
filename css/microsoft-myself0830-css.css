@@ -612,6 +612,8 @@ a:visited {
     position: absolute;
 }
 
+
+
 @media (max-width: 1080px){
     .go-top{
         margin-left: 88%;
@@ -629,3 +631,4 @@ a:visited {
     }
 
 }
+
